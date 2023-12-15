@@ -33,7 +33,7 @@ var Ai = {
     new: function (side) {
         return {
             width: 20,
-            height: 350,
+            height: 301,
             x: side === 'left' ? 150 : this.canvas.width - 150,
             y: (this.canvas.height / 2) - 35,
             score: 0,
