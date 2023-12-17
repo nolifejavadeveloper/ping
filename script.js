@@ -22,7 +22,7 @@ var Ball = {
             moveY: DIRECTION.IDLE,
 
             //CHANGE SPEED HERE
-            speed: incrementedSpeed || 13
+            speed: incrementedSpeed || 15.001
             
         };
     }
